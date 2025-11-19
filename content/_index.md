@@ -82,5 +82,5 @@ outputs: ["HTML"]
   }
   a:hover {
     border-bottom: 1px solid rgba(0,0,0,0.5);
-  }
+  } 
 </style>
