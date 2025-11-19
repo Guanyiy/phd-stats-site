@@ -1,10 +1,10 @@
 ---
 title: "Home"
-layout: "page"
 draft: false
 markup: "html"
 outputs: ["HTML"]
 ---
+
 
 
 <div align="center" style="margin-top:40px; margin-bottom:30px;">
