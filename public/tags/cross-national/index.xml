@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cross-National on Guanyi Yang</title>
-    <link>http://localhost:1313/tags/cross-national/</link>
+    <link>https://guanyiy.github.io/phd-stats-site/tags/cross-national/</link>
     <description>Recent content in Cross-National on Guanyi Yang</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cross-national/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guanyiy.github.io/phd-stats-site/tags/cross-national/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌍 Cross-national Cognitive Aging and MCI Classification (HRS-HCAP, Mex-Cog, LASI-DAD)</title>
-      <link>http://localhost:1313/research/hrs_hcap/</link>
+      <link>https://guanyiy.github.io/phd-stats-site/research/hrs_hcap/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/hrs_hcap/</guid>
+      <guid>https://guanyiy.github.io/phd-stats-site/research/hrs_hcap/</guid>
       <description>Statistical modeling of MCI subtypes across U.S., Mexican, and Indian cohorts, integrating harmonized cognitive measurement with regression-based inference.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Combinatorics on Guanyi Yang</title>
-    <link>http://localhost:1313/tags/combinatorics/</link>
+    <link>https://guanyiy.github.io/phd-stats-site/tags/combinatorics/</link>
     <description>Recent content in Combinatorics on Guanyi Yang</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/combinatorics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guanyiy.github.io/phd-stats-site/tags/combinatorics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🅿️ Algorithmic &amp; Graph-Theoretic Analysis of Parking Functions</title>
-      <link>http://localhost:1313/research/mvp_sandpile/</link>
+      <link>https://guanyiy.github.io/phd-stats-site/research/mvp_sandpile/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/mvp_sandpile/</guid>
+      <guid>https://guanyiy.github.io/phd-stats-site/research/mvp_sandpile/</guid>
       <description>Graph-theoretic and algorithmic investigation of classical and generalized parking functions.</description>
     </item>
     <item>
       <title>🌋 Discrete Dynamics of MVP Parking Functions in Sandpile Models</title>
-      <link>http://localhost:1313/research/parking_graph/</link>
+      <link>https://guanyiy.github.io/phd-stats-site/research/parking_graph/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/parking_graph/</guid>
+      <guid>https://guanyiy.github.io/phd-stats-site/research/parking_graph/</guid>
       <description>Graph-theoretic and dynamical analysis of MVP parking functions within the Abelian Sandpile framework.</description>
     </item>
   </channel>
