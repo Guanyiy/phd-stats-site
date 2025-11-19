@@ -9,10 +9,14 @@ draft: false
 
 <div class="page-intro">
   <p>
-    Selected publications, conference presentations, and posters.<br>
-    My research focuses on <b>cognitive aging</b>, <b>cross-cultural measurement</b>, and <b>statistical modeling</b>.
+    Publications and presentations from my work in 
+    <b>cognitive aging</b>, <b>cross-cultural assessment</b>, and 
+    <b>statistical methodology</b>. I am particularly interested in how
+    measurement structure, heterogeneity, and data limitations shape inference
+    in global aging research.
   </p>
 </div>
+
 
 ---
 
@@ -28,24 +32,26 @@ draft: false
 
 <hr class="section-divider">
 
-## 🎤 Conference Abstracts & Presentations
+## 🎤 Conference Presentations
 <div class="pub-list">
 
   <div class="pub-card">
     <b>Yang, G.</b>, Ghimire, D., Dhakal, U., Bogati, U., Sapkota, H., Shrestha, L., Pandit, P., Jalan, P., Mendes de Leon, C., & Brice&#241;o, E. M.  
     <i>Adaptation of a Visuospatial Construction and Visual Memory Test for an Educationally Diverse Older Adult Population in Nepal.</i>  
     <em>International Neuropsychological Society (INS) 54th Annual North American Meeting, Philadelphia, Feb 2026.</em>  
-    (First Author, Abstract under review)
+    (First Author, Accepted)
   </div>
 
+
   <div class="pub-card">
-    <b>Brice&#241;o, E. M.</b>, <b>Yang, G.</b>, Bogati, U., Jalan, P., Shrestha, L., Dhakal, U., Sapkota, H., Rai, J., Pandit, P., Mendes de Leon, C., & Ghimire, D.  
+    Brice&#241;o, E. M., <b>Yang, G.</b>, Bogati, U., Jalan, P., Shrestha, L., Dhakal, U., Sapkota, H., Rai, J., Pandit, P., Mendes de Leon, C., & Ghimire, D.  
     <i>Development of a Cognitive Screening Test for Educationally Diverse Older Adults in Nepal.</i>  
     <em>International Neuropsychological Society (INS) 2026 Annual Meeting.</em>  
-    (Co-author, Abstract under review)
+    (Co-author, Accepted)
   </div>
 
 </div>
+
 
 <hr class="section-divider">
 
@@ -87,6 +93,11 @@ draft: false
   <div class="pub-card">
     Brice&#241;o, E. M., <b>Yang, G.</b>, Bogati, U., Jalan, P., Shrestha, L., Dhakal, U., Sapkota, H., Rai, J., Pandit, P., Mendes de Leon, C., & Ghimire, D.  
     <i>Tentative title:</i> *Development of a Cognitive Screening Test for Educationally Diverse Older Adults in Nepal.*
+  </div>
+
+  <div class="pub-card">
+    Brice&#241;o, E. M., Adhikari, N., Sapkota, H., Dhakal, U., Jalan, P., Shrestha, L., Sapkota, H., Rai, J., Bogati, U., <b>Yang, G.</b>, Pandit, P., Mendes de Leon, C., & Ghimire, D.  
+    <i>Tentative title:</i> *Adaptation of the Harmonized Cognitive Assessment Protocol in Nepal.*
   </div>
 
   <div class="pub-card">

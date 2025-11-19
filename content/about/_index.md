@@ -1,7 +1,7 @@
 ---
 title: ""
 layout: "page"
-summary: "Applied Statistics | Cognitive Aging | Global Health"
+summary: "Applied Statistics • Biostatistics • Cognitive Aging"
 ---
 
 <div style="display:flex; align-items:center; gap:20px; margin-top:10px; margin-bottom:30px; flex-wrap:wrap;">
@@ -23,45 +23,44 @@ summary: "Applied Statistics | Cognitive Aging | Global Health"
 
 ### 🌱 About Me
 
-I’m **Guanyi**, a statistician-in-training who believes numbers can reveal more than they conceal — *if we ask the right questions.*  
+I’m Guanyi, an applied statistician studying how cognitive data behave across diverse educational and cultural contexts. My training in the University of Michigan’s Applied Statistics program has shaped how I approach scientific questions: not only through prediction, but through attention to identification, measurement structure, and diagnostics.
 
-I began in **Financial Mathematics**, drawn to the elegance of formulas and the order of prediction. But as I built models, I realized the world rarely fits the math. Human data isn’t just *noise* — it’s where complexity holds meaning.  
-
-That realization led me toward **cognitive aging** and **psychometrics**, where data meets human difference most directly. Now, as a master’s student in **Applied Statistics** at the **University of Michigan**, I study how people think, age, and adapt across cultures — bridging **statistics**, **cognitive science**, and **global health** to build models that capture both rigor and empathy.  
+A recurring theme in my work is that inference depends on the quality of the measurement behind it. Through projects in the U.S., Mexico, India, and Nepal, I became increasingly interested in how floor effects, zero inflation, literacy-linked missingness, and cross-national non-equivalence influence statistical conclusions. These challenges guide my broader interest in methods that connect statistical modeling, psychometrics, and global aging research.
 
 <div style="border-left: 4px solid #d4d4d4; padding-left: 14px; margin: 1.2em 0; font-style: italic; color: #444;">
-Good measurement, to me, is a form of empathy — a way to see people clearly, across differences and contexts.
+Good measurement, to me, is a commitment to seeing people clearly across context.
 </div>
-
-
-
-
 
 ---
 
 ### 🧭 What I’m Working On
 
-At the **University of Michigan**, I work with **Dr. Emily Briceño** on projects that explore how we measure and model cognition across diverse populations.
+At the University of Michigan, I work with Dr. Emily Briceño on methods-driven cognitive aging research that integrates population data, statistical modeling, and measurement evaluation.
 
-**🌏 Cross-National Modeling:**  
-Using data from the **HRS-HCAP**, **Mex-Cog**, and **LASI-DAD** studies, I analyze how demographic, clinical, and psychosocial factors predict *Mild Cognitive Impairment (MCI)* subtypes. This work focuses on developing comparable statistical frameworks across countries — bridging differences in measurement, data quality, and cultural context.
+**🌏 Cross-national cognitive aging (HRS-HCAP, Mex-Cog, LASI-DAD):**  
+I analyze Mild Cognitive Impairment (MCI) subtypes using multinomial regression, generalized linear models, and latent-variable approaches. Much of this work examines measurement comparability across countries—evaluating factor structures, detecting DIF, diagnosing floor effects, and understanding missingness mechanisms that arise from differences in literacy and educational opportunity.
 
-**🇳🇵 Adaptation in Nepal:**  
-In parallel, I lead analyses for the **Nepal HCAP adaptation**, evaluating cognitive assessments designed for low-literacy and linguistically diverse populations. Our team collaborates with researchers in Nepal to test new visuospatial and attention tasks that improve accessibility and psychometric validity.
+**🇳🇵 Cognitive assessment adaptation in Nepal:**  
+I lead analyses for the Nepal HCAP adaptation, refining visuospatial and attention tasks designed for low-literacy older adults. My work includes WLSMV estimation, item-level diagnostics, validity evaluation, and factor score generation for downstream epidemiologic modeling. These efforts reflect my interest in measurement science and inference under data constraints.
 
-From global models to local adaptation, what connects my work is a simple belief:
-data should help us see people more clearly, not flatten who they are.
+---
+
+### 🔬 Research Interests
+
+- Latent variable modeling: CFA, IRT, factor score estimation  
+- Measurement validity and harmonization across populations  
+- Regression frameworks for cognitive outcomes  
+- Missing data mechanisms and non-ignorable patterns  
+- Inference under cultural and educational heterogeneity  
+- Applications to cognitive aging and global health
+
+Across methods and applications, I aim to pair rigorous statistical tools with context-aware inference.
 
 ---
 
 ### ☕ Beyond the Data
 
-When I’m not working in R or Mplus, I look for rhythm in small things — the quiet hum of a café, the slow stretch of a walk, a song that makes thinking feel effortless. They remind me that curiosity doesn’t end with research; it lives in how we notice the world.  
-
-Over time, I’ve come to see science not as certainty, but as conversation —  
-between data and experience, between precision and empathy.  
-And somewhere in that dialogue, meaning quietly begins.
-
+Outside research, I appreciate the slower rhythms that make careful thinking possible—walks, cafés, and music. These routines remind me that statistics is both computational and conceptual: a way of asking precise questions about complex lives and bringing clarity where measurement is difficult but essential.
 
 ---
 

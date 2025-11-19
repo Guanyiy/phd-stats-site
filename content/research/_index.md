@@ -1,13 +1,20 @@
 ---
 title: "🧪 Research"
 layout: "list"
-summary: "Research projects spanning statistics, cognition, and global health"
+summary: "Statistical modeling, cognitive measurement, and global aging"
 ---
 
-Welcome! 🌱   
+Welcome! 👋  
 
-I use **data** to understand how systems — from human cognition to behavior and health — change, connect, and tell stories.  
-My work bridges *applied statistics* and *machine learning*, combining methodological rigor with questions that matter in the real world.  
+My research focuses on the **statistical foundations of cognitive measurement** and the methodological challenges that arise when data are collected across heterogeneous educational, linguistic, and cultural contexts. I work at the intersection of **applied statistics**, **biostatistics**, and **global cognitive aging**, with projects spanning population studies in the United States, Mexico, India, and Nepal.
 
-I study topics spanning **cognitive aging and dementia measurement** across global cohorts, **behavioral modeling**, and earlier work in **mathematical finance** — all guided by a focus on making data analysis **interpretable**, **equitable**, and **socially meaningful**.
+Across topics, I am especially interested in:
 
+- **Latent variable modeling** (CFA, IRT, WLSMV)
+- **Measurement validity & cross-national harmonization**
+- **Floor effects, zero inflation, and literacy-linked missingness**
+- **Generalized regression modeling** for MCI classification
+- **Inference under heterogeneity** in cognitive and aging data
+- **Statistical tools that improve interpretability and generalizability**
+
+My goal is to develop and apply statistical methods that remain robust even when data are imperfect, biased, or shaped by structural disparities — ensuring that inference reflects the populations behind the data.

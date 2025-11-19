@@ -1,7 +1,7 @@
 ---
 title: "📄 Curriculum Vitae"
 layout: "page"
-summary: "Download my latest CV and explore academic milestones."
+summary: "Download my latest CV and view academic highlights."
 ---
 
 <div align="center" style="margin-top:25px; margin-bottom:25px;">
@@ -23,30 +23,29 @@ summary: "Download my latest CV and explore academic milestones."
 ---
 
 ## 🎯 Research Interests
-- Cognitive aging and dementia measurement across diverse populations  
+- Cognitive aging and dementia measurement across heterogeneous global populations  
 - Cross-cultural and educational adaptation of neuropsychological assessments  
-- Latent variable and measurement models for cross-national comparability  
-  *(e.g., HRS-HCAP, LASI-DAD, Mex-Cog, Nepal HCAP)*  
-- Psychometric and statistical approaches to promote equity and validity in cognitive research  
+- Latent-variable and measurement models for cross-national comparability  
+- Psychometric and statistical approaches to improve validity, equity, and inference in cognitive research  
 
 ---
 
 ## 🎓 Education
-- **M.S. in Applied Statistics**, University of Michigan (2024–Present)  
-- **B.Sc. (Hons) in Mathematics with Finance**, University of Liverpool *(First Class Honours, 2024)*  
+- **M.S., Applied Statistics**, University of Michigan (2024–Present)  
+- **B.Sc. (Hons), Mathematics with Finance**, University of Liverpool — *First Class Honours* (2024)  
   <span style="color:#666;">Dual-degree program with Xi’an Jiaotong–Liverpool University (XJTLU)</span>
 
 ---
 
 ## 🪴 Current Affiliations
-- 🌿 Research Assistant, **Department of Physical Medicine & Rehabilitation**, University of Michigan  
-  *Cross-national Cognitive Aging & MCI Classification (HRS-HCAP, Mex-Cog, LASI-DAD)*  
+- Research Assistant, **Department of Physical Medicine & Rehabilitation**, University of Michigan  
+  *Cross-national cognitive aging and MCI modeling (HRS-HCAP, Mex-Cog, LASI-DAD)*  
 
-- 🍃 Research Assistant, **Institute for Social Research**, University of Michigan  
+- Research Assistant, **Institute for Social Research**, University of Michigan  
   *Nepal Harmonized Cognitive Assessment Protocol (HCAP) Adaptation*  
 
 ---
 
 <div align="center" style="margin-top:35px; opacity:0.75;">
-  <i>Full CV download available above.</i>
+  <i>Full CV available for download above.</i>
 </div>

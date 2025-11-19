@@ -3,18 +3,27 @@ title: "💹 Numerical Simulation and Hedging for European Options"
 date: 2025-07-14
 weight: 66
 draft: false
-description: "Explored stochastic modeling and risk management through large-scale simulations of European option pricing and hedging strategies."
-tags: ["Stochastic Processes", "Quantitative Finance", "Option Pricing", "Monte Carlo Simulation", "Risk Management", "Python"]
+description: "Stochastic simulation and numerical analysis of European option pricing and hedging performance under geometric Brownian motion."
+tags: ["Stochastic Processes", "Simulation", "Quantitative Methods", "Option Pricing", "Monte Carlo", "Python"]
 ---
 
 **Advisor:** [Dr. Yi Hong](https://scholar.xjtlu.edu.cn/en/persons/YiHong)
 
-This project focused on simulating European option pricing under stochastic dynamics (Geometric Brownian Motion), evaluating the effectiveness of different hedging strategies under realistic market fluctuations.
+### 📘 Overview  
+This project examines the **numerical behavior of European option pricing and hedging strategies** under **stochastic differential equation (SDE)** dynamics. Using the Geometric Brownian Motion (GBM) model, we simulated large-scale asset paths and evaluated how discretization, volatility, and trading frequency influence replication accuracy.
 
-**Contributions:**
-- Simulated over 100,000 asset price paths using the Euler–Maruyama scheme
-- Implemented delta and delta-gamma neutral hedging strategies
-- Visualized option price convergence and replication error under different volatility regimes
-- Assessed the impact of discretization and hedging frequency on performance
+Although grounded in quantitative finance, the project served as an early foundation for my interest in **stochastic modeling, simulation-based inference, and algorithmic stability**, skills that continue to inform my work in statistical modeling and cognitive aging.
 
-**Tools:** Python, Monte Carlo methods, Black–Scholes framework, NumPy, Matplotlib
+---
+
+### 🔍 Key Contributions  
+- Simulated **100,000+** GBM paths using the **Euler–Maruyama discretization**  
+- Implemented **delta** and **delta–gamma neutral** hedging strategies and compared replication errors  
+- Analyzed convergence properties of Monte Carlo estimators under varying volatility regimes  
+- Evaluated sensitivity to time-step selection and hedging frequency, highlighting trade-offs between accuracy and computational cost  
+- Produced reproducible Python pipelines with diagnostics and visual summaries
+
+---
+
+### 🧰 Methods & Tools  
+Python · Monte Carlo Simulation · SDEs · Euler–Maruyama · Black–Scholes Framework · NumPy · Matplotlib
