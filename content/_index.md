@@ -6,7 +6,6 @@ markup: "html"
 outputs: ["HTML"]
 ---
 
-{{< rawhtml >}}
 <div align="center" style="margin-top:40px; margin-bottom:30px;">
   <!-- === Avatar === -->
   <img src="/images/profile.JPG" alt="Guanyi Yang" width="140"
@@ -85,4 +84,3 @@ outputs: ["HTML"]
     border-bottom: 1px solid rgba(0,0,0,0.5);
   }
 </style>
-{{< /rawhtml >}}
