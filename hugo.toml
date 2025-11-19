@@ -2,8 +2,8 @@ baseURL = "https://guanyiy.github.io/phd-stats-site/"
 languageCode = "en-us"
 title = "Guanyi Yang"
 theme = "PaperMod"
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 
 
 [params]
