@@ -1,0 +1,57 @@
+baseURL = "https://guanyiy.github.io/"
+languageCode = "en-us"
+title = "Guanyi Yang"
+theme = "PaperMod"
+relativeURLs = true
+canonifyURLs = true
+
+
+[params]
+  author = "Guanyi Yang"
+  defaultTheme = "auto"
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  comments = false
+  disableHomePosts = true
+  layout = "page"
+  customCSS = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 4
+    
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 60
+  
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+

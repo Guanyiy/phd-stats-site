@@ -1,0 +1,101 @@
+/* =========================================================
+   🌿 Publications Page – Custom Styling for PaperMod
+   ========================================================= */
+
+/* ---- Intro ---- */
+.page-intro {
+    background: #fafafa;
+    padding: 1.8em 0;
+    border-radius: 12px;
+    margin-bottom: 2.5em;
+    text-align: center;
+  }
+  .page-intro p {
+    max-width: 720px;
+    margin: 0 auto;
+    color: #555;
+    line-height: 1.7;
+    font-size: 1.05em;
+  }
+  
+  /* ---- Section Headings ---- */
+  h2 {
+    color: #111;
+    font-weight: 600;
+    border-left: 4px solid #9ca3af;
+    padding-left: 10px;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* ---- Publication Grid ---- */
+  .pub-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    gap: 1.6em;
+  }
+  
+  /* =========================================================
+     🎨 Card Style – Soft Warm Gray
+     ========================================================= */
+  .pub-card {
+    background: #f7f8fa !important;     /* 柔和灰蓝底 */
+    border: 1px solid #e2e4e7 !important;
+    border-radius: 12px;
+    padding: 1.2em 1.4em;
+    line-height: 1.55;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+    transition: all 0.25s ease;
+  }
+  .pub-card:hover {
+    background: #fdfdfd !important;     /* hover 时略亮 */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  }
+  
+  /* ---- Poster Thumbnails ---- */
+  .poster-thumb {
+    width: 100%;
+    max-width: 380px;
+    aspect-ratio: 4 / 3;
+    border-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: transform .3s ease, box-shadow .3s ease;
+  }
+  .poster-thumb:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+  
+  /* ---- Divider ---- */
+  hr.section-divider {
+    border: none;
+    border-top: 1px solid #e5e7eb;
+    margin: 2.8em 0;
+  }
+  
+  /* ---- Show More Button ---- */
+  #toggleBtn {
+    background: #f3f4f6;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 0.95em;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  #toggleBtn:hover {
+    background: #e5e7eb;
+  }
+  
+  /* ---- Footer Quote ---- */
+  .footer-quote {
+    text-align: center;
+    margin-top: 3em;
+    color: #6b7280;
+    font-style: italic;
+    font-size: 0.95em;
+    opacity: 0.9;
+  }
+  
