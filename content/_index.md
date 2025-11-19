@@ -1,5 +1,6 @@
 ---
 title: "Home"
+layout: "page"
 draft: false
 markup: "html"
 outputs: ["HTML"]
