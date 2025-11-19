@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stochastic Processes on Guanyi Yang</title>
+    <link>https://guanyiy.github.io/phd-stats-site/tags/stochastic-processes/</link>
+    <description>Recent content in Stochastic Processes on Guanyi Yang</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://guanyiy.github.io/phd-stats-site/tags/stochastic-processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💹 Numerical Simulation and Hedging for European Options</title>
+      <link>https://guanyiy.github.io/phd-stats-site/research/european_options/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://guanyiy.github.io/phd-stats-site/research/european_options/</guid>
+      <description>Stochastic simulation and numerical analysis of European option pricing and hedging performance under geometric Brownian motion.</description>
+    </item>
+  </channel>
+</rss>
