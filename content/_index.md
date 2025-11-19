@@ -5,8 +5,6 @@ markup: "html"
 outputs: ["HTML"]
 ---
 
-
-
 <div align="center" style="margin-top:40px; margin-bottom:30px;">
 
   <!-- === Avatar === -->
@@ -40,7 +38,7 @@ outputs: ["HTML"]
   <li>Statistical and psychometric methods for equitable and robust assessment</li>
   <li>Cognitive aging and dementia measurement</li>
   <li>Cross-cultural and educational adaptation of cognitive assessments</li>
-  </ul>
+</ul>
 
 <h3>Learn More</h3>
 <p>
@@ -85,4 +83,3 @@ outputs: ["HTML"]
     border-bottom: 1px solid rgba(0,0,0,0.5);
   }
 </style>
-
